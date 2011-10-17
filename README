@@ -1,0 +1,3 @@
+Purpose
+
+The purpose of this js drop-in tool is to track unique visits to a specified page and execute a callback function, after a specified number of unique visits has been reached for that page.
