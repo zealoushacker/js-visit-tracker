@@ -1,3 +1,4 @@
 Purpose
 
-The purpose of this js drop-in tool is to track unique visits to a specified page and execute a callback function, after a specified number of unique visits has been reached for that page.
+The purpose of this js drop-in tool is to track unique visits to a specified subdirectory's pages and execute a callback function, after a specified number of unique visits has been reached for pages in that subdirectory.
+The user can specify a unique sub-directory, or a regular expression that matches the set of subdirectories to include.
